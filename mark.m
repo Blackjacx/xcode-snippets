@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-#pragma ma - <#title#>
+#pragma mark -<#title#>
