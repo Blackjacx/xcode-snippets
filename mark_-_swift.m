@@ -1,5 +1,5 @@
 // Mark - Swift
-// 
+// Swift Version
 //
 // IDECodeSnippetCompletionScopes: [ClassInterfaceMethods]
 // IDECodeSnippetIdentifier: 7820AC91-C6A5-46BA-9161-956648673A55
